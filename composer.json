@@ -1,5 +1,5 @@
 {
-  "name"              : "chilio/laravel-localization-helpers",
+  "name"              : "potsky/laravel-localization-helpers",
   "description"       : "An artisan command package for easy translation management",
   "authors"           : [
     {
