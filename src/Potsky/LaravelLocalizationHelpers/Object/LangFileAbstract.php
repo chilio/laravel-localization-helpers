@@ -210,7 +210,7 @@ abstract class LangFileAbstract
 			return true;
 		}
 
-		return mkdir( $dir );
+		return mkdir( $dir, 7777, TRUE );
 	}
 
 	/**
